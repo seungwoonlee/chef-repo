@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .rake_test_cache
 
 ###
@@ -5,3 +6,14 @@
 ###
 .chef/*.pem
 .chef/encrypted_data_bag_secret
+=======
+.vagrant
+/cookbooks
+
+# Bundler
+bin/*
+.bundle/*
+
+.kitchen/
+.kitchen.local.yml
+>>>>>>> ba409543b7a3f1e24f1663eaea4f2959c785108e
